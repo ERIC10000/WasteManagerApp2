@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KeNaWPWA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="slogan">Information \n  Management  App \n  For Waste Pickers \n  in Kenya</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>

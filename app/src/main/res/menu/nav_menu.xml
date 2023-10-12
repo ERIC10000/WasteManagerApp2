@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tool="http://schemas.android.com/tools"
+    tool:showIn ="navigation_view">
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Log out"
+            android:iconTint="@color/g_blue"
+            android:icon="@drawable/baseline_logout_24">
+        </item>
+
+        <item
+            android:title=" Upload Proflie picture"
+            android:id="@+id/attend_track"
+            android:icon="@drawable/baseline_photo_camera_24">
+        </item>
+
+        <item
+            android:title="Forgot Password"
+            android:id="@+id/scan_qr"
+            android:icon="@drawable/baseline_question_mark_24">
+        </item>
+    </group>
+
+</menu>
